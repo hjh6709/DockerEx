@@ -3,7 +3,6 @@
 ## Installation
 ```bash
 cd ~
-cd DEV
 cd gitEx
 git clone https://github.com/hjh6709/DockerEx.git
 cd DockerEx
